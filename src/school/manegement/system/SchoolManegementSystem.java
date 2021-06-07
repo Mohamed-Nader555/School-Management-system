@@ -26,16 +26,6 @@ public class SchoolManegementSystem {
         ArrayList<Subject> subjectList = new ArrayList<Subject>(); 
         Principal p = new Principal();
      int choice = 0;
-     String Name;
-     int Id;
-     String Adress;
-     String PhoneNumber;
-     String Email;
-     float basicSalary;
-     float liveExpensive;
-     int Level;
-     float principalBonus;
-     String subjectName;
      
 //        try
 //        {
